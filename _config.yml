@@ -1,14 +1,10 @@
 title: Bogdan Adam's Blog
 description: Test automation; Traveling; Sport
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+url: https://bogdan-adam.github.io/
 
-# Author Settings
+
 author: Bogdan Adam
 author-img: bogdan-adam-profile.jpg 
 about-author: I am a software engineer passionate about test automation. 
@@ -19,7 +15,7 @@ social-twitter: https://twitter.com/adambogdan1993
 social-email: bogdan.adamj@gmail.com
 
 # Disqus
-discus-identifier: bogdan-adam
+discus-identifier: bogdanadam
 
 # Tracker
 analytics: # Google Analytics
