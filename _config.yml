@@ -3,8 +3,9 @@ description: Test automation; Traveling; Sport
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://bogdan-adam.github.io/
+site-twitter: #if your site has a twitter account, enter it here
 
-
+# Author Settings
 author: Bogdan Adam
 author-img: bogdan-adam-profile.jpg 
 about-author: I am a software engineer passionate about test automation. 
@@ -15,7 +16,7 @@ social-twitter: https://twitter.com/adambogdan1993
 social-email: bogdan.adamj@gmail.com
 
 # Disqus
-discus-identifier: bogdanadam
+discus-identifier: bogdan-adam
 
 # Tracker
 analytics: # Google Analytics
