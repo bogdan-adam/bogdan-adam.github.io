@@ -2,7 +2,7 @@ title: Bogdan Adam's Blog
 description: Test automation; Traveling; Sport
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: https://bogdan-adam.github.io/
+url: Bogdan Adam's Blog
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
@@ -16,7 +16,7 @@ social-twitter: https://twitter.com/adambogdan1993
 social-email: bogdan.adamj@gmail.com
 
 # Disqus
-discus-identifier: bogdan-adam
+discus-identifier: Bogdan Adam
 
 # Tracker
 analytics: # Google Analytics
