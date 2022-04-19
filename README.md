@@ -1,3 +1,3 @@
 # bogdan-adam.github.io
 
-Personal blog https://bogdan-adam.github.io/ sharing ideas, knowledge
+Personal blog https://bogdan-adam.github.io/ in progress...
