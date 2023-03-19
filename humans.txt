@@ -1,0 +1,8 @@
+/* Thank you */
+/* Jekyll  */
+
+/* Artem Sheludko */
+https://github.com/artemsheludko/Jekyll-Gulp-Sass-Autoprefixer-Imagemin-BrowserSync
+
+/* Tehnologies */
+HTML5, CSS, Jekyll
