@@ -937,7 +937,7 @@ table tfoot td {
 }
 
 .about {
-  margin: 0 0 40px;
+  margin: 0 0 30px;
   text-align: center;
 }
 
@@ -998,6 +998,22 @@ table tfoot td {
 .about p {
   font-size: 16px;
   margin: 0 0 10px;
+}
+
+.profile{
+  text-align: center;
+}
+
+.profile a{
+  margin: 20px 10px 10px;
+  text-decoration: none;
+  font-weight: 900;
+  font-size: large;
+  color: DarkSlateGray;
+}
+
+.profile a:hover{
+  color: FireBrick;
 }
 
 .content-box {
