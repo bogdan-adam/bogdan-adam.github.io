@@ -1,9 +1,8 @@
 title: Bogdan Adam's Blog
 description: Test automation; Traveling; Sport
 permalink: ':title/'
-#baseurl: "/" # the subpath of your site, e.g. /blog
-baseurl: "" # the subpath of your site, e.g. /blog
-#url: https://bogdan-adam.github.io/
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: https://bogdan-adam.github.io/
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
