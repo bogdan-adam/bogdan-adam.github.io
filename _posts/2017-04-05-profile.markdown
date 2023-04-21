@@ -4,16 +4,21 @@ title: About me
 ---
 
 ## Summary
-The most common procedure for a torn meniscus is knee arthroscopy. It usually takes less than an hour.
+<span style="font-size: 20px">I&nbsp;</span> am an experienced Test Automation Engineer based in the beautiful city of Iasi, Romania. I have <strong>7+ years</strong> of experience in
+designing, developing, and maintaining test automation frameworks, automating manual processes, and testing web applications from different industries like
+sales performance management, data forms, reporting tools, healthcare, and clinical trials. During my career, I have been part of
+functional testing teams and also platform engineering teams where I had the opportunity to work in different testing areas (web service testing, performance testing,
+API testing, cloud testing, contract testing, and security testing).
 
-First, you receive anesthesia. The surgical team cleans the skin on your knee and covers the rest of your leg with a surgical drape. The team might place a clamp on your upper thigh to help with positioning during surgery.
+<span style="font-size: 20px">I&nbsp;</span> hold a bachelor’s degree in Computer Science and Information Technology (2016) and a master’s degree in Project Management   (2022) from the University of Alexandru Ioan Cuza of Iasi. Besides
+those degrees, for companies that I have worked I had the opportunity to pass some certifications: <i>'ISTQB -Certified Tester Foundation Level'</i>,
+<i>'PCAP Certified Associate in Python Programming'</i> and <i>'AWS Certified Cloud Practitioner'.</i>
 
-The surgeon makes a few small stab incisions (cuts) in your knee called portals. The team then fills the knee joint with a sterile fluid. The fluid helps control minor bleeding in the joint and washes away debris, which helps the surgeon see inside the joint.
 
-The surgeon inserts a small tool called an arthroscope into the incision. An arthroscope is a thin tube with a small light and video camera at the end. The camera projects video images from inside your knee onto a monitor.
 
-The surgeon uses the arthroscope to look at the tear and decide what surgical technique to perform:
+<span style="font-size: 20px">I&nbsp;</span> consider myself a flexible person with a broad range of interests and knowledge, able and willing to learn anything related to software quality engineering. I have worked mostly with Java and Python and multiple testing frameworks. However, I would call these my primary skills:
+- <strong>Java</strong> : Selenium,  TestNG,  Rest-Assured,  Gauge,  JUnit
+- <strong>Python</strong>: Robot Framework,  SeleniumLibrary,  NumPy
+- while working on test automation solutions I also had the opportunity to use: AWS, Kafka (MSK and Confluent Kafka), Jenkins, Docker, Postman, Cucumber, Gradle, Maven, JMeter, K6
 
-Meniscus repair: The surgeon sews torn pieces of cartilage back together so they can heal on their own. However, because of tear type and blood supply, less than 10%of tears are actually repairable.
-Partial meniscectomy: The surgeon trims and removes the damaged cartilage and leaves healthy meniscus tissue in place.
-Your surgeon inserts other surgical tools depending on the technique used. When the meniscectomy or meniscus repair is complete, the surgeon closes the portals with stitches or surgical strips. Then the team will cover your knee with a bandage.
+<span style="font-size: 20px">L</span>ooking for challenging opportunities which could help me grow both professionally and personally and help the organization achieve its goals as well!
