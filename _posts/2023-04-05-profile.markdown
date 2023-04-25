@@ -19,6 +19,6 @@ those degrees, for companies that I have worked I had the opportunity to pass so
 <span style="font-size: 20px">I&nbsp;</span> consider myself a flexible person with a broad range of interests and knowledge, able and willing to learn anything related to software quality engineering. I have worked mostly with Java and Python and multiple testing frameworks. However, I would call these my primary skills:
 - <strong>Java</strong> : Selenium,  TestNG,  Rest-Assured,  Gauge,  JUnit
 - <strong>Python</strong>: Robot Framework,  SeleniumLibrary,  NumPy
-- while working on test automation solutions I also had the opportunity to use: AWS, Kafka (MSK and Confluent Kafka), Jenkins, Docker, Postman, Cucumber, Gradle, Maven, JMeter, K6
+- while working on test automation solutions I also had the opportunity to use: AWS, Kafka (MSK and Confluent Kafka), Jenkins, Docker, Postman, Cucumber, PACT, Spring Cloud Contract, Gradle, Maven, JMeter, K6
 
 <span style="font-size: 20px">L</span>ooking for challenging opportunities which could help me grow both professionally and personally and help the organization achieve its goals as well!
