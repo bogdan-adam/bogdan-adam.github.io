@@ -67,3 +67,5 @@ def get_fontsize_and_fontname_for_phrase(pdf_path, word, page_number):
     device.close()
     return actual_font_size_pt, actual_font_name
 {% endhighlight %}
+
+I strongly recommend using PDFMiner for testing PDF files as it’s a maintained library and [well-documented](https://pdfminersix.readthedocs.io/en/latest/).
