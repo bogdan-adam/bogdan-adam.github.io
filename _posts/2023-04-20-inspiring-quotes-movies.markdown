@@ -43,7 +43,7 @@ Best advice: appreciate nature and live life as a free spirit.
 
 > "Happiness is only real when shared."
 
-Be careful who you share good news with ...
+The act of sharing happiness is a true joy for one's soul...
 
 ### 2. The Departed
 > "I don’t want to be a product of my environment. I want my environment to be a product of me."
