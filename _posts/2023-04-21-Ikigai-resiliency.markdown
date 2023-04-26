@@ -41,4 +41,6 @@ The concept of Ikigai comes from the island of Okinawa, the place with the highe
 10. Follow your Ikigai
 
 I recommend reading this book because it offers ways to have a beautiful and peaceful life, you can learn new ideas that aim to improve the quality of your life.
-"Man is capable of changing the world for the better if possible, and of changing himself for the better if necessary." - Viktor Frankl
+I have always been fascinated by Japanese culture and I hope to visit Japan at some point to see the beautiful temples, shrines, and zen gardens.
+I want to end this post with a quote of Viktor Frankl:
+"Man is capable of changing the world for the better if possible, and of changing himself for the better if necessary."
