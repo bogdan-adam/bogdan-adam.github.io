@@ -23,7 +23,7 @@ Ikigai in the context of work represents the intersection between :
 
 ### Resilience
 One of the characteristics of everyone who has a well-defined ikigai is continuous persistence in their passion. When they have difficulties in life, when they run into obstacles, they never give up.
-It's about resilience, a fairly new concept for me. Resilience is not only the ability to persevere and fight unceasingly, but it is an attitude that can be cultivated to stay focused on what is most important in life, and not on what is urgent, driven by negative emotions. Training our mind, body and emotional state in the sense of resilience is essential to face the obstacles in life. In the book it was mentioned a Japanese proverb that easily depicts de concept of resilience:
+It's about resilience, a fairly new concept for me. Resilience is not only the ability to persevere and fight unceasingly, but it is an attitude that can be cultivated to stay focused on what is most important in life, and not on what is urgent, driven by negative emotions. Training our mind, body and emotional state in the sense of resilience is essential to face the obstacles in life. In the book it was mentioned a Japanese proverb that easily depicts the concept of resilience:
 *When you fall 7 times, get up 8 times. ("Nanakorobi Yaoki")*.
 
 This book is about building a lifestyle based on a well-founded reason to live, to enjoy being alive. The idea is similar to the book "Man's Search for Meaning" by Viktor Frankl, which says that when a person has a meaning in life, he can become happy. The inner freedom that cannot be taken away from any person gives meaning and purpose to life.
