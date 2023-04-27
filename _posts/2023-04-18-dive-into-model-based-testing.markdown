@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dive into Model Based Testing
+title: Dive into Model-Based Testing
 date: 2023-04-18 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: how-to-start.jpg # Add image post (optional)
@@ -8,7 +8,7 @@ tags: [quality-engineering] # add tag
 ---
 
 ### Why Model-Based Testing ?
-I have heard of model-based testing but never applied it in a real project, not even in a proof-of-concept. The purpose of this post is to document what I find useful about Model-Based Testing and do a PoC using existing open-source projects. When I will have the chance to use it on a real project the content of this post and gained knowledge will allow me to come up faster with a solution.
+I have heard of model-based testing but never applied it in a real project, not even in a proof-of-concept. The purpose of this post is to document what I find useful about Model-Based Testing and do a PoC using existing open-source projects. When I will have the chance to use it on a real project, the content of this post and gained knowledge will allow me to come up faster with a solution.
 
 *<u>Model-based testing</u> is a software testing technique where the run time behavior of the software under test is checked against predictions made by a model. A model is a description of a system’s behavior. Behavior can be described in terms of input sequences, actions, conditions, output, and flow of data from input to output.*
 
@@ -26,6 +26,8 @@ Model-Based Testing can be used in following situations:
 - *state transition* : the state of the software is tested against some inputs and notifies the system's behavior when the state transition took place
 - *decision tables* : in this situation the actual results is compared to the expected results
 
+Model-based testing does not overthrow traditional test design, but extends and supports classic test design techniques such as equivalence partitioning, boundary value analysis, decision table testing, state transition testing, and use case testing.
+
 Advantages of model-based testing:
 - model-based tests can cover a large variety of scenarios with little effort
 - design and specification errors can be spotted quickly
@@ -38,6 +40,7 @@ The biggest advantage of using models to describe tests is the fact that they he
 ### Proof of concept
 
 ### 1. GraphWalker
+I chose GraphWalker framework for proof-of-concept because it's a maintained tool and widely recommended for model-based testing.
 
 
 ### 2. AltWalker
